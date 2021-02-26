@@ -30,6 +30,8 @@ a.	With Visual Code you will need to install the C# extensions
    a. The counter page was removed
 2. A component library that contains a "Spinner" component
    a. This is a simple loader component used to demonstrate the idea of using CSS isolation in a component library
+3. A clone of the Blazor app that uses a Nuget Package
+4. The Componet lib as a nuget package
 
 
 
